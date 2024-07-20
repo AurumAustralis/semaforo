@@ -1,2 +1,1 @@
-# semaforo
-Proyecto educativo de construcción de un semáforo
+# Proyecto educativo de construcción de un semáforo
